@@ -12,7 +12,7 @@
 }
 
 h1 {
-    margin-top: 50%;
+    margin-top: 30%;
     font-size: 5.7rem; 
     color: white;
     letter-spacing: .6ch;
@@ -30,15 +30,15 @@ h2 {
     background-color: rgba(23,151,170,.1);
 }
 
-#service-one {
-    margin-top: 10%;
-}
-
-#service-two {
-    margin-top: 10%;
-}
-
 #service-headers {
     color: black;
 }
 
+i {
+    margin-top: 100%;
+    size: 5rem;
+}
+
+#san-diego {
+    margin-bottom: 300px;
+}
